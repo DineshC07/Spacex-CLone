@@ -4,7 +4,7 @@ React js along with Redux for state management and React Router for navigation a
 
 ## Architecture
 
-![Architecture](src\assets\Architecture.png)
+![Architecture](src/assets/Architecture.png)
 
 ## Future Enhancements
 
